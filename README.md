@@ -63,7 +63,7 @@ The Algonauts challenge data comes from the **Natural Scenes Dataset (NSD)** (Al
 ---
 
 ## Repository layout
-
+```
 algonauts_nsd_encoding_rsa/
 │
 ├── notebooks/
@@ -89,7 +89,7 @@ algonauts_nsd_encoding_rsa/
 │
 ├── README.md # project description and instructions
 └── requirements.txt # Python dependencies
-
+```
 
 ---
 
