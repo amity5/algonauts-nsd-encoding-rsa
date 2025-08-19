@@ -95,8 +95,9 @@ algonauts_nsd_encoding_rsa/
 
 ## Requirements
 
-Install dependencies with:
+Python 3.10+ recommended.
 
+Install dependencies with:
 ```bash
 pip install -r requirements.txt
 
